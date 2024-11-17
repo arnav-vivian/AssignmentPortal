@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+
+# Database files (if any)
+*.db
+
+# Temporary files
+*.tmp
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store    # macOS
+Thumbs.db    # Windows
+
+# npm package lock file (optional if you want to ignore lock files)
+# package-lock.json
